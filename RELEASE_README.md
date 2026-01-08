@@ -22,12 +22,4 @@ BayaniFund is a mobile crowdfunding platform designed to bridge the gap between 
     *   *Note: You may need to enable "Install from Unknown Sources" in your browser/file manager settings.*
 4.  **Launch**: Open the app and sign in to start investing!
 
-## 📸 Preview
 
-| Home Screen | Project Details | Portfolio |
-|:---:|:---:|:---:|
-| <!-- Add screenshot link here --> | <!-- Add screenshot link here --> | <!-- Add screenshot link here --> |
-| *(Placeholder)* | *(Placeholder)* | *(Placeholder)* |
-
----
-*Note: This repository is for distribution purposes only. The source code is maintained privately.*
